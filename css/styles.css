@@ -16,9 +16,24 @@
 }
 .landtxt h1{
     font-size: 10vh;
-    color: rgba(255, 166, 0, 0.568);
+    color: rgba(128, 128, 128, 0.692)
 }
 .landtxt h2{
     font-size: 10vh;
     color:orange
+}
+
+.registration{
+    background-color: #08101f
+}
+
+.formstyle input{
+    border-top: none;
+    border-left: orange solid 5px;
+    border-right: none;
+    color:orange ;
+    
+}
+.dark {
+    background-color: #000000d0;
 }
