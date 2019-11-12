@@ -1,0 +1,15 @@
+.landing {
+    background-image: url("../images/landing.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+   
+}
+
+.landtxt{
+    position: absolute;
+    color: orange;
+    top:30vh
+    
+}
