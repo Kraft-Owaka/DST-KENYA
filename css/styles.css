@@ -36,7 +36,7 @@ color: orange;
     border-right: none;
     color:orange ;
     background: #000000;
-    border-bottom: none;
+    border-bottom: orange solid 1px;
     padding-left: 5vh;
     
 }
