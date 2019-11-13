@@ -117,7 +117,6 @@ color: orange;
     text-align: left; 
 }
 
-
 /* KeyFrame */
 .shake{
 animation: shake 0.1s infinite;
@@ -136,3 +135,15 @@ animation: shake 0.1s infinite;
 .races{
     display:none
 }
+   /*font family styling*/
+   .category{
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+   }
+   .category1 {
+    font-family: 'Autour One', cursive;
+
+   }
+   .container2{
+    font-family: 'Volkhov', serif;
+   }
