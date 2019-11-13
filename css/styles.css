@@ -6,6 +6,10 @@
     height: 100vh;
    
 }
+.mr0{
+    margin:0px;
+    padding:0px;
+}
 .orange {
 color: orange;
 }
@@ -50,6 +54,27 @@ color: orange;
 
 .cardmt{
     margin-top: 30vh;
+}
+.kardbody{
+    background-color: #090f1a;
+}
+.kardbody p{
+    color:orange;
+    margin-top:6vh
+
+}
+.kardbody h5{
+    color: orange;
+    font-family:'Sedgwick Ave Display', cursive; 
+    font-size: 2vw;
+}
+
+.Rimg{
+    background-image: url("../images/register.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
 }
 
 
