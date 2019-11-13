@@ -67,7 +67,9 @@ color: orange;
     color: orange;
     font-family:'Sedgwick Ave Display', cursive; 
     font-size: 2vw;
+    margin-top: 4vh;
 }
+
 
 .Rimg{
     background-image: url("../images/register.jpg");
