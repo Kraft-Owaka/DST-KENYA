@@ -88,6 +88,9 @@ color: orange;
     font: bold;
     text-align: center;
 }
+
+/* .about{border: radius 40%;} */
+
 #about:hover{
     color: indigo;
 }
