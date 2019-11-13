@@ -86,7 +86,7 @@ color: orange;
     background-color:black;
     font-size: 17px;
     font: bold;
-    text-align: center;
+    text-align: left; 
 }
 
 /* .about{border: radius 40%;} */
