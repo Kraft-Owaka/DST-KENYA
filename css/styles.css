@@ -116,11 +116,18 @@ color: orange;
     font: bold;
     text-align: left; 
 }
+
 /* textx color for card holders*/
 .races{
     color:orange
 }
 
+#paganni{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#rh{text-align: center;
+font: bold;}
 
 /* KeyFrame */
 .shake{
@@ -137,9 +144,6 @@ animation: shake 0.1s infinite;
     }
    }
 /*hide display for sprints circuit drag*/
-.sprints{
-    display:none
-}
-.circuits{
+.races{
     display:none
 }
