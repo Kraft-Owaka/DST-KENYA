@@ -79,3 +79,15 @@ color: orange;
 .sprint{
     background-color: black;
 }
+
+/* About buttons */
+#about{
+    color: blue;
+    background-color:grey;
+    font-size: 30px;
+    font: bold;
+    text-align: center;
+}
+#about:hover{
+    color: indigo;
+}
