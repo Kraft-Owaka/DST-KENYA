@@ -6,6 +6,9 @@
     height: 100vh;
    
 }
+.orange {
+color: orange;
+}
 
 .landtxt{
     position: absolute;
