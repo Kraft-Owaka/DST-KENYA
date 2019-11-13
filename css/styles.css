@@ -47,10 +47,7 @@ color: orange;
 .dark {
     background-color: #000000;
 }
-.btn{
-    border: orange solid 1px;
-    color: orange
-}
+
 
 .cardmt{
     margin-top: 10vh;
@@ -104,6 +101,12 @@ color: orange;
     font-family: 'Shadows Into Light', cursive;
 }
 
+.bgblack{
+    background-color: black;
+}
+.races{
+    background-image: url("../images/brickwall.jpeg");
+}
 
 /* About buttons */
 #about{
