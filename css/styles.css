@@ -132,3 +132,18 @@ animation: shake 0.1s infinite;
         
     }
    }
+   /*font family styling*/
+   .category{
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+   }
+   .category1 {
+    font-family: 'Autour One', cursive;
+
+   }
+   .container2{
+    font-family: 'UnifrakturMaguntia', cursive;
+   }
+    .races{
+        color:yellow;
+    }
