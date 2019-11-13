@@ -116,8 +116,19 @@ color: orange;
     text-align: left; 
 }
 
-/* .about{border: radius 40%;} */
 
-/* #about:hover{
-    color: indigo;
-} */
+
+/* KeyFrame */
+.shake{
+animation: shake 0.1s infinite;
+}
+
+@keyframes shake {
+    from{
+        transform: translateX();
+    }
+    to{
+        transform: translateX(10px);
+        
+    }
+   }
