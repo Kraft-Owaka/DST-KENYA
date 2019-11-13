@@ -104,3 +104,18 @@ color: orange;
 .sprint{
     background-color: black;
 }
+
+/* About buttons */
+#about{
+    color:orange;
+    background-color:black;
+    font-size: 17px;
+    font: bold;
+    text-align: left; 
+}
+
+/* .about{border: radius 40%;} */
+
+/* #about:hover{
+    color: indigo;
+} */
