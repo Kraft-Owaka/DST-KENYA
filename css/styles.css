@@ -82,15 +82,15 @@ color: orange;
 
 /* About buttons */
 #about{
-    color: blue;
-    background-color:grey;
-    font-size: 30px;
+    color:orange;
+    background-color:black;
+    font-size: 17px;
     font: bold;
     text-align: center;
 }
 
 /* .about{border: radius 40%;} */
 
-#about:hover{
+/* #about:hover{
     color: indigo;
-}
+} */
