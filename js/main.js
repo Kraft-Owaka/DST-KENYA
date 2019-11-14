@@ -6,13 +6,13 @@ function register() {
   if (age <= 17) {
     alert("Hi son, Yo to young  for this try again in a few years");
   } else {
-    window.location.replace = "race.html";
+    var btn = document.getElementById("regbtn");
+    function race() {
+      btn.setAttribute("href", "race.html");
+    }
   }
+  race()
 }
-
-
-
-
 
 // Set the date we're counting down to
 var countDownDate = new Date("Nov 15, 2019 15:37:25").getTime();
