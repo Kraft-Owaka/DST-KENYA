@@ -133,9 +133,23 @@ animation: shake 0.1s infinite;
     }
    }
 /*hide display for sprints circuit drag*/
-.races{
+
+.sprint{
     display:none
 }
+.circuit{
+    display:none
+}
+.drag{
+    display:none
+}
+
+
+
+
+
+
+
    /*font family styling*/
    .category{
     font-family: 'Audiowide', cursive;
