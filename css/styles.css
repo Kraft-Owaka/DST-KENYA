@@ -160,3 +160,6 @@ animation: shake 0.1s infinite;
        font-size: 15vh;
         font-family: 'Wallpoet', cursive;
    }
+   .card-body kardbody {
+       height: 310vh;
+   }
