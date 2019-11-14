@@ -1,17 +1,23 @@
 $(document).ready(function() {
     $(".sprints").click(function() {
-      $(".races").toggle();
+      $(".sprint").toggle();
+      $(".circuit").hide();
+      $(".drag").hide();
     });   
   });
 
   $(document).ready(function() {
-    $(".sprints").click(function() {
-      $(".races").toggle();
+    $(".circuits").click(function() {
+      $(".circuit").toggle();
+      $(".drag").hide();
+      $(".sprint").hide();
     });   
   });
 
   $(document).ready(function() {
-    $(".sprints").click(function() {
-      $(".races").toggle();
+    $(".drags").click(function() {
+      $(".drag").toggle();
+      $(".circuit").hide();
+      $(".sprint").hide();
     });   
   });
