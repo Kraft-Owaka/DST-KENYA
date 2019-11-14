@@ -1,22 +1,27 @@
-## DST KENYA
+## DST-KENYA WEB PAGE
 
 ### Authors
-Brian Rigii
-Trevor Ngugi
-John
-Kraft Owaka 
+[Brian Rigii]
+[Trevor Ngugi]
+[John Trinity]
+[Kraft Owaka] 
 
 ## Description
-This is a website that works to bring people with a common interest and  love of fast automobils togeter.
+This is a website that works to bring people with a common interest and  love of fast automobils together.
+They also get to register and participate in 3 categories of races.
 
 
 ### Live link
 
+### BDD
+
+
 ## Installation/Setup
-. Start your terminal by clicking on ( ctr alt t) 
-. oen a the folder f the project  typing cd, make sure to initialize it
-. clone the ptoject from github by running git clone utl
-.Open your folder in your VX-code or your text editor
+- Start your terminal by clicking on ( ctr alt t) 
+- open the folder of the project  typing cd, make sure to initialize it
+- clone the project from github by running git clone url
+- Open your folder in your VX-code or your text editor
+
 ### Technologies
 
 . HTML5
@@ -26,7 +31,7 @@ This is a website that works to bring people with a common interest and  love of
 . jQuery
 
 
-## License
+## MIT License
 
 Copyright <2019> <COPYRIGHT DST-KENYA>
 
