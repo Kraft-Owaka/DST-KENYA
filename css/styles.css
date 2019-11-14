@@ -45,7 +45,7 @@ color: orange;
     
 }
 .dark {
-    background-color: #000000;
+    background-color: #080A21;
 }
 
 
@@ -103,6 +103,7 @@ color: orange;
 
 .bgblack{
     background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(247, 243, 243, 0.63)
 }
 .races{
     background-image: url("../images/brickwall.jpeg");
@@ -160,4 +161,16 @@ animation: shake 0.1s infinite;
    }
    .container2{
     font-family: 'Volkhov', serif;
+   }
+
+   .shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+
+   }
+   .timer {
+       color:orange
+   }
+   .timer p{
+       font-size: 15vh;
+        font-family: 'Wallpoet', cursive;
    }
